@@ -1,2 +1,2 @@
-print("a dibagi b")
-print("pembagian")
+print("a dikali b")
+print("perkalian")
